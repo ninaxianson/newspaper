@@ -2,7 +2,7 @@
   "name": "chronicling-america",
   "version": "1.0.0",
   "description": "A project learning how to work with API's",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
